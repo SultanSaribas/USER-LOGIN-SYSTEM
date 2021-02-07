@@ -1,0 +1,71 @@
+.container{
+    width: 370px;
+    height: 310px;
+    background-color: rgba(255, 255, 255, 0.2);
+    margin: auto;
+    margin-top: 200px;
+    border-radius: 20px;
+    padding-top: 20px;
+
+}
+
+body{
+    background-image: url(image/pastel_plasma_colors.jpg);
+    background-size: cover;
+
+}
+label{
+    font-size: 38px;
+    margin-left: 120px;
+    font-family: Forte;;
+    color: rgb(31, 140, 230);
+
+}
+input{
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 24px;
+    border-radius: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 15px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+.btn{
+    width: 330px;
+    height: 40px;
+    margin-left: 17px;
+    margin-top: 15px;
+    border-radius: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(38, 43, 59);
+    font-size: 21px;
+    background-color: rosybrown;
+    cursor: pointer;
+
+}
+p{
+    text-decoration: none;
+    font-size: 20px;
+    color: slategrey;
+    margin-left: 150px;
+
+
+}
+.home{
+    width: 370px;
+    height: 310px;
+    background-color: rgba(255, 255, 255, 0.2);
+    margin: auto;
+    margin-top: 200px;
+    border-radius: 20px;
+    padding-top: 20px;
+
+}
+.errors{
+    font-size: 38px;
+    margin-left: 370px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(139, 6, 6);
+}
